@@ -9,8 +9,6 @@ ELADMIN Front-end source code
 |  github   |  https://github.com/elunez/eladmin   |  https://github.com/elunez/eladmin-web   |
 |  Gitee   |  https://gitee.com/elunez/eladmin   |  https://gitee.com/elunez/eladmin-web   |
 
-#### Development Documentation
-[https://el-admin.vip](https://el-admin.vip)
 
 #### Front-end template
 
